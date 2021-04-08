@@ -24,31 +24,19 @@
     <strong>Screenshots:</strong>
     <br />
     <br />
-    <div class="row">
-        <div class="col-md-6">
     <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Login.png" />
-        </div>
-    <div class="col-md-6">
+    <br />
+    <br />
     <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Register.png" />
-        </div>
     <br />
     <br />
-        <div class="row">
-        <div class="col-md-6">
     <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/single.png" />
-            </div>
-            <div class="col-md-6">
-                <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/videos.png" />
-            </div>
-        </div>
-        <br />
     <br />
-        <div class="row">
-        <div class="col-md-6">
-        <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/add.png" />
-            </div>
-            <div class="col-md-6">
-        <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Dashboard.png" />
-            </div>
-        </div>
-            
+    <br />
+    <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/videos.png" />
+    <br />
+    <br />
+    <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/add.png" />
+    <br />
+    <br />
+    <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Dashboard.png" />
