@@ -23,6 +23,8 @@
     <p> For user you can sign up in register page </p>
     <strong>Screenshots:</strong>
     <br />
+    <br />
     <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Login.png" />
+    <br />
     <br />
     <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Register.png" />
