@@ -21,4 +21,4 @@
 <strong>username:</strong> admin@genit.sg<br>
 <strong>password:</strong> admin</p>
     <p> For user you can sign up in register page </p>
-    
+    <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Login.png" />
