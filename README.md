@@ -28,3 +28,6 @@
     <br />
     <br />
     <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Register.png" />
+    <br />
+    <br />
+    <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Single.png" />
