@@ -21,7 +21,8 @@
 <strong>username:</strong> admin@genit.sg<br>
 <strong>password:</strong> admin</p>
     <p> For user you can sign up in register page </p>
-    <p>Reference Video To Create S3 bucket and credentials : <a href="https://www.youtube.com/watch?v=nMDIVQsESBY">https://www.youtube.com/watch?v=nMDIVQsESBY</a></p>
+    <p>Reference Video To Create S3 bucket and credentials : <a href="https://www.youtube.com/watch?v=nMDIVQsESBY" target="_blank">https://www.youtube.com/watch?v=nMDIVQsESBY</a></p>
+    <p>You can store your videos in a private bucket. The application will retrive it by assigning a presigned URL.</p>
     <strong>Screenshots:</strong>
     <br />
     <br />
