@@ -27,7 +27,7 @@ Also user can rate videos.</p>
     <strong>Screenshots:</strong>
     <br />
     <br />
-    <p align="middle">
+    <p float="left">
     <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Login.png" width="300" />
     <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Register.png" width="300" />
     <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/single.png" width="300" />
