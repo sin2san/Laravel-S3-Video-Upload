@@ -26,10 +26,10 @@
     <strong>Screenshots:</strong>
     <br />
     <br />
-    <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Login.png" />
-    <br />
-    <br />
-    <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Register.png" />
+    <p float="left">
+    <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Login.png" width="50%" />
+    <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/Register.png" width="50%" />
+    </p>
     <br />
     <br />
     <img src="https://raw.githubusercontent.com/sin2san/Laravel-S3-Video-Upload/main/screenshots/single.png" />
