@@ -21,6 +21,7 @@
 <strong>username:</strong> admin@genit.sg<br>
 <strong>password:</strong> admin</p>
     <p> For user you can sign up in register page </p>
+    <p>Reference Video To Create S3 bucket and credentials : <a href="https://www.youtube.com/watch?v=nMDIVQsESBY">https://www.youtube.com/watch?v=nMDIVQsESBY</a></p>
     <strong>Screenshots:</strong>
     <br />
     <br />
